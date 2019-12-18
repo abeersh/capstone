@@ -21,7 +21,9 @@ We plan to take this problem by using publicly available data for gasoline, ther
 
 The purpose of this work is to identify gasoline consumption and factors that affect the price of gasoline and to obtain a reliable forecast model of gasoline consumption and gasoline prices. To achieve this goal, it is necessary to perform several tasks:
 • Study the factors influencing the price of gasoline.
+
 • Consider the method of forecasting using time-series.
+
 • Collect and conduct descriptive data analysis.
 
 
@@ -34,4 +36,5 @@ The project will take around 2 weeks of work, the Date Time will be in: 14 Decem
 
 ## Challenges:
 • Reliability of the data.
+
 • External factors which affected overall result not covered by the study such as wither conditions or political issues.
