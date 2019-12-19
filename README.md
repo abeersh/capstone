@@ -35,6 +35,24 @@ The project will take around 2 weeks of work, the Date Time will be in: 14 Decem
 
 
 ## Challenges:
+
 • Reliability of the data.
 
 • External factors which affected overall result not covered by the study such as wither conditions or political issues.
+
+
+
+## Conclusions:
+
+Several models were applied to the monthly mean gasoline prices and consumption time series data which is :SARIMAX ,Prophet ,LSTM and ARIMA . Comparing the performances of these models,  note that for this specific time series, a multivariate ARIMA model performs the best in predicting the gasoline consumption and we get score : 0.999 of confidence.
+
+
+
+## Future Work:
+
+
+• Explore and add more features that affecting gasoline price like  GDP, etc. to optimize the model.
+
+• Explore other ML models for predicting gasoline price.
+
+• Building models for predicting each of features which we did use it to predicted gasoline consumption to make full predicting model.
